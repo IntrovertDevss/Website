@@ -548,17 +548,7 @@ main {
     line-height: 1.4;
     letter-spacing: 0.05em;
 }
-.ExtrasType {
-    flex: 1;
-    background-color: rgb(114, 101, 101);
-    min-width: 500px;
-}
-.ExtrasType h2 {
-    color: white;
-    font-family: 'CanvasSans', sans-serif;
-    font-weight: bold;
-    text-align: center;
-}
+
 
 
 
@@ -579,5 +569,12 @@ main {
     }
     .BlogItem {
         min-width: 350px;
+        max-width: 360px;
+    }
+    .BlogItem h2 {
+        font-size: 16px;
+    }
+    .BlogItem p {
+        font-size: 8px;
     }
 }
