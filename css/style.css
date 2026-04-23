@@ -572,9 +572,9 @@ main {
         max-width: 360px;
     }
     .BlogItem h2 {
-        font-size: 16px;
+        font-size: 18px;
     }
     .BlogItem p {
-        font-size: 8px;
+        font-size: 10px;
     }
 }
