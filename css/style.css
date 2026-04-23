@@ -577,4 +577,7 @@ main {
     .BlogItem p {
         font-size: 12px;
     }
-}
+    .slider-wrapper {
+        max-width: 340px;
+    }
+}   
