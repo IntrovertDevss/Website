@@ -577,4 +577,7 @@ main {
     main {
         margin-left: 0;
     }
+    .BlogItem {
+        min-width: 350px;
+    }
 }
