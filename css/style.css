@@ -384,8 +384,8 @@ main {
 /* Portfolio Item Page CSS */
 .Container {
     padding-top: 5%;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: Auto;
+    margin-right: Auto;
 }
 .slider-wrapper {
     position: relative;
@@ -449,6 +449,9 @@ main {
     font-family: 'CanvasSans', sans-serif;
     text-align: center;
     margin-top: 0;
+    margin-left: 18%;
+    margin-right: 18%;
+    line-height: 1.2;
 }
 /* End of Portfolio Item Page CSS */
 
@@ -581,5 +584,9 @@ main {
     }
     .slider-wrapper {
         max-width: 340px;
+    }
+    .ProjectDescription {
+        margin-left: 10%;
+        margin-right: 10%;
     }
 }   
