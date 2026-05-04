@@ -376,6 +376,8 @@ main {
     height: auto;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
+    aspect-ratio: 1/1;
+    object-fit: cover;
 }
 /* End of Portfolio Page CSS */
 
